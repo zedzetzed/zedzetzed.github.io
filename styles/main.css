@@ -13,6 +13,15 @@ h2 {
     font-size: 32px;
     color: white;
 }
-header {
+header.brushes {
     background-color: mediumspringgreen;
+}
+header.frames {
+    background-color: lightcoral;
+}
+header.paint {
+    background-color: skyblue;
+}
+span {
+    color: blue;
 }
